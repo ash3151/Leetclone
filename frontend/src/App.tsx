@@ -12,12 +12,12 @@ import { Landing } from "./components/Landing";
 import { Submissions } from "./components/Sumissions";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCWGjGwxxuSKBV7UNO-dbc4DhzmEnGmMCQ",
-  authDomain: "leetcode-clone-754ea.firebaseapp.com",
-  projectId: "leetcode-clone-754ea",
-  storageBucket: "leetcode-clone-754ea.firebasestorage.app",
-  messagingSenderId: "737037119844",
-  appId: "1:737037119844:web:4649b83f29c064871c0a71"
+  apiKey: "____",
+  authDomain: "___",
+  projectId: "____",
+  storageBucket: "____",
+  messagingSenderId: "___",
+  appId: "____"
 };
 
 // Initialize Firebase
